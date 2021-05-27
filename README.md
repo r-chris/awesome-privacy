@@ -169,6 +169,7 @@ Remember: Without strong encryption, you will be spied on systematically by lots
 - SendAnywhere
 
 <img width="16" src="misc/check.png"> </img> **Instead use**
+- [Arcano](https://arcano.app) - Simple, end-2-end encrypted file transfer service.
 - [Blaze](https://blaze.now.sh/) - A fast, p2p and radically different way to transfer files.
 - [Send](https://gitlab.com/timvisee/send) - Simple, private file sharing. (Mozilla Send Fork)
 - [Lufi](https://framagit.org/fiat-tux/hat-softwares/lufi) - Let's Upload that FIle — File sharing software.
